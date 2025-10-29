@@ -1,4 +1,7 @@
 Welcome to patient appointment booking project
+## 📊 Project Presentation
+You can view or download the presentation here:  
+👉 [HealthCare_Clinic_Presentation.pptx](./docs/HealthCare_Clinic_Presentation.pptx)
 
 Project Overview
 
